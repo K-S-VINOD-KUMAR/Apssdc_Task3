@@ -1,0 +1,50 @@
+{	
+	"title":{
+   			"info":"RESUME"
+		},
+	"details":{
+		"name":"K.S.Vinod Kumar",
+		"rollno":"18G01A0445",
+		"image":"profile.jpg",
+		"email":"ksvk5714@gmail.com",
+		"mobile":"955317XXXX",
+		"address":"Shop Street, Puttur Mandal, Chittoor District, Andhra Pradesh, 517583."
+	},
+	"careerobjective":{
+		"info":"Experienced and knowledgeable software engineer with extensive practice in technology engineering and computer science looking to obtain a position that allows for the application of design skills, customer service and support abilities and critical thinking to produce software that meets all goals and objectives outlined by the customer."
+	},
+	"educationalqualification":[
+		{   
+			"institute":"Sri Venkatesa Perumal College of Engineering and Technology",
+			"degree":"B.Tech,ECE",
+			"passoutyear":"2022",
+			"percentage":"80%"
+	    },
+	    {
+			"institute":"Sri Sai Jyothi Junior College",
+			"degree":"Intermediate",
+			"passoutyear":"2018",
+			"percentage":"92.7%"
+	    },
+	    {
+			"institute":"Jnana Jyothi vidya mandir School",
+			"degree":"SSC",
+			"passoutyear":"2016",
+			"percentage":"90%"
+	    }
+
+    ],
+    "technicalskills":[
+    	{
+    		"title":"Programming languages",
+    		"info":["C,Python,Java,Javascript"]
+    	},
+    	{
+    		"title":"Technologies",
+    		"info":["Artificial Intelligence,Machine Learning,Data Science,Automation"]
+    	}
+    ],
+   "declaration":{
+   			"info":"I am here by to declare that above mention details is true with best of my knowledge."
+		}
+}

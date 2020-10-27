@@ -1,0 +1,155 @@
+body{
+	background: linear-gradient(to bottom,black,#272a33,#061747,#17086b,#3c50bd,#703bcc,#993bcc,#b43bcc,#910781,rgb(219, 52, 80),#c5700f);
+	margin:1%;
+	font-size: 20px;
+}
+img{
+	width:70%;
+}
+header{
+	background-color:#69ffb4;
+	border:2px double white;
+	text-align: center;
+	margin:1%;
+}
+.main{
+	display:flex;
+	flex-direction:row;
+}
+.section1{
+	width:33%;
+	background-color: #fcccee;
+	margin: 1%;
+	padding:5px;
+	border:2px double black;
+
+}
+.section2{
+	width:63%;
+	background-color:#e6ffc9;
+	margin: 1%;
+	padding:5px;
+	border:2px double black;
+
+}
+.thead{
+	font-weight:bolder;
+	text-align: center;
+	color:darkblue;
+
+}
+h3{
+	text-align: center;
+	background-color: #ff0048;
+	border:1px double yellow;
+	box-shadow: 2px 2px 2px 2px blue;
+}
+
+@media only screen and (min-width:320px) and (max-width:480px)
+{
+	body{
+	background: linear-gradient(to bottom,black,#272a33,#061747,#17086b,#3c50bd,#703bcc,#993bcc,#b43bcc,#910781,rgb(219, 52, 80),#c5700f);
+	margin:1%;
+	font-size: 20px;
+}
+img{
+	width:60%;
+}
+header{
+	background-color:#69ffb4;
+	border:2px double white;
+	text-align: center;
+	margin:1%;
+}
+.main{
+	display:flex;
+	flex-direction:column;
+}
+.section1{
+	width:98%;
+	background-color: #fcccee;
+	margin: 1%;
+	padding:5px;
+	border:2px double black;
+
+}
+.section2{
+	width:98%;
+	background-color:#e6ffc9;
+	margin: 1%;
+	padding:5px;
+	border:2px double black;
+
+}
+.thead{
+	font-weight:bolder;
+	text-align: center;
+	color:darkblue;
+
+}
+h3{
+	text-align: center;
+	background-color: #ff0048;
+	border:1px double yellow;
+	box-shadow: 1px 1px 1px 1px blue;
+}
+}
+
+@media only screen and (min-width:481px) and (max-width:768px)
+{
+		body{
+	background: linear-gradient(to bottom,black,#272a33,#061747,#17086b,#3c50bd,#703bcc,#993bcc,#b43bcc,#910781,rgb(219, 52, 80),#c5700f);
+	margin:1%;
+	font-size: 20px;
+}
+img{
+	width:80%;
+}
+header{
+	background-color:#69ffb4;
+	border:2px double white;
+	text-align: center;
+	margin:1%;
+}
+.main{
+	display:flex;
+	flex-direction:column;
+}
+.section1{
+	width:98%;
+	display: flex;
+	flex-direction:row;
+	background-color:#fcccee;
+	margin: 1%;
+	padding:5px;
+	border:2px double black;
+
+}
+.div1{
+	width:49%;
+
+}
+.div2{
+	width:49%;
+}
+.section2{
+	width:98%;
+	background-color: #e6ffc9;
+	margin: 1%;
+	padding:5px;
+	border:2px double black;
+
+}
+.thead{
+	font-weight:bolder;
+	text-align: center;
+	color:darkblue;
+
+}
+h3{
+	text-align: center;
+	background-color: #ff0048;
+	border:1px double brown;
+	box-shadow: 1px 1px 1px 1px blue;
+}
+}

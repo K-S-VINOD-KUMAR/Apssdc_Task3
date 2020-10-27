@@ -1,0 +1,30 @@
+body{
+	background: linear-gradient(to bottom,black,#272a33,#061747,#17086b,#3c50bd,#703bcc,#993bcc,#b43bcc,#910781);
+}
+
+.container>img{
+    width:50%;
+}
+.main{
+    padding:2%;
+    margin:2%;
+
+}
+#nav{
+	background-color:#f5784e;
+	padding: 1%;
+}
+.cards{
+	 display: flex;
+    text-align: center;
+    background-color: #ffbfee;
+
+}
+#title{
+	background-color: white;
+	border:1px solid black;
+	border-radius: 60%;
+}
+#bgcolor{
+	background-color: #ffbfee;
+}
